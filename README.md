@@ -3,9 +3,9 @@
 
 ##  Olá, meu nome é <strong>Murillo!</strong>
 
-🔭 Atualmente estou trabalhando em 3 projetos.
+☕ Atualmente estou trabalhando em 3 projetos.
 
-💬 Se quiser entrar em contato, clique em qualquer opção abaixo.
+🍷 Se quiser entrar em contato, clique em qualquer opção abaixo.
 
 ----
 
