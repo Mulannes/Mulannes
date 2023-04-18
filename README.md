@@ -1,5 +1,4 @@
-<div><img src="https://user-images.githubusercontent.com/118365053/229004111-93441fb8-3a86-46a0-a038-005d3cee8d3f.png">
-</div>
+<div><img src="https://user-images.githubusercontent.com/118365053/232656189-04f8230b-3e5a-44e3-a795-3782bdc11b1f.png"></div>
 
 ##  Hello, My name is<strong>Murillo!</strong>
 
