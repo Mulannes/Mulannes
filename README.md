@@ -47,12 +47,12 @@
 
 ## **GitHub Stats**
 
-<a href="https://github.com/Gurupreet">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mulannes&theme=darcula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=mulannes&show_icons=true&theme=darcula&line_height=27" alt="**SEU NOME** github stats"/>
+<a href="">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mulannes&show_icons=true&theme=darcula&line_height=27"/>
 </a>
 
 <picture>
